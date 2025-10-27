@@ -5,7 +5,7 @@
 <h3 align="center">Мои языки программирования:</h3>
 
 <p align="center">
-  <img src="[ttps://img.shields.io/badge/Python-3.9-blue](https://camo.githubusercontent.com/d098e6cd003cd2098113d4ff119b27be95d06944f527c9a4f9a78a23652633cb/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466c6f676f732d646f776e6c6f61642e636f6d25324677702d636f6e74656e7425324675706c6f616473253246323031362532463130253246507974686f6e5f6c6f676f5f69636f6e2e706e6726663d31266e6f66623d31)" alt="Python">
+  <img src="![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-1.10-red" alt="PyTorch">
 </p>
 

@@ -2,11 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я студент по специальности "Информационные системы и технологии". 🇷🇺</h3>
 
-<h3 align="center">Мои языки программирования:</h3>
+<h3 align="center">⚒️ Languages/Frameworks/Tools ⚒️:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pytorch.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="40" height="40"/>
 </p>
 
 <h3 align="center">Мой статус на Codewars:</h3>

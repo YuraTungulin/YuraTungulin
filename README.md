@@ -16,8 +16,9 @@
   <!-- Программы для кодинга -->
   <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/Visual_Studio-%23000000.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-
 </p>
+
+
 <h3 align="center">Мой статус на Codewars:</h3>
 <p align="center">
   <img src="https://www.codewars.com/users/YuraTungulin/badges/large?logo=false">

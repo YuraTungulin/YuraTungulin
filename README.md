@@ -5,7 +5,7 @@
 <h3 align="center">Мои языки программирования:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-1.10-red" alt="PyTorch">
 </p>
 

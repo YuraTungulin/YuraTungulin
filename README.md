@@ -11,5 +11,5 @@
 
 <h3 align="center">Мой статус на Codewars:</h3>
 <p align="center">
-  <img src="[https://img.shields.io/badge/Codewars-5%20kyu-yellow](https://www.codewars.com/users/YuraTungulin/badges/large?logo=false)" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/YuraTungulin/badges/large?logo=false">
 </p>

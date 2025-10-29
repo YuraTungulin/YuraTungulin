@@ -3,6 +3,8 @@
 <h3 align="center">Я студент по специальности "Информационные системы и технологии". 🇷🇺</h3>
 <h3 align="center"> Languages/Frameworks/Tools :</h3>
 
+<h3 align="center">Languages/Frameworks/Tools :</h3>
+
 <p align='center'>
 <!-- Языки программирования -->
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -12,6 +14,7 @@
 
   <!-- Фреймворки и библиотеки -->
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
   <!-- Программы для кодинга -->
   <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">

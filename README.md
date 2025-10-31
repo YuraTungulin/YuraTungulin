@@ -23,5 +23,5 @@
 
 <h3 align="center">Мой статус на Codewars:</h3>
 <p align="center">
-  <img src="https://www.codewars.com/users/YuraTungulin/badges/large?logo=false">
+  <img src="https://www.codewars.com/users/YuraTungulin/badges/small">
 </p>
